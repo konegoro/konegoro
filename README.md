@@ -22,7 +22,7 @@ I've worked in some proyects in differenters areas, both at the university and i
 # Other
 - I am assistant professor in the course "Lenguajes de Programacion" (CC4101). This course is one of the toughest in the academic mesh. [Here](https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=115998) is the course program
 - I have the B2 TOEFL Certification
-- In the last semester (Spring 2024) my grade was 6.1 of 7 
+- In the last semester (Spring 2024) my grade was 6.1 in a 1-7 scale
 # Techonlogies and tools 
 
 ## Programming Languages
