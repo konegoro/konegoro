@@ -1,4 +1,7 @@
-## Hi there 👋
+## Bio
+I am in my last year of civil engineering in computer science, but at the end of 2025 i will be officially a software engineer.
+I like web developing and data science, but i had worked in other areas too, like gamedevelop, functional programming, machine learning, deep learing and DNS protocols
+
 
 <!--
 **Negrodcc/Negrodcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
