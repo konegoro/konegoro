@@ -6,16 +6,16 @@ I like web development and data science, but i had worked in other areas too, li
 I've worked in some proyects in differenters areas, both at the university and in internships
 ### Web Development 
 - Flask proyect using Jinja for templates and AJAX for customized graphics
-- Several FullStack proyects using React for the frontend (with JS) and Express for the backend, also using MongoDB. All these proyects came from this [course](https://fullstackopen.com/en/) at University of Helsinki. I have several repositories with this proyects, [here](https://github.com/Negrodcc/FullStackProject-Backend) is one of them.
+- Several FullStack proyects using React for the frontend (with JS) and Express for the backend, also using MongoDB. All these proyects came from this [course](https://fullstackopen.com/en/) at University of Helsinki. I have several repositories with these proyects, [here](https://github.com/Negrodcc/FullStackProject-Backend) is one of them.
 ### Gamedev
-- [Party Snake](https://overplay45.itch.io/party-snakes/devlog/563872/final-game-is-out-new-music-battle-powers-and-ending) its a 2D-3D videogame done with Godot engine in 4 months of work, with a 4-person team
-- Roblox world with 5 mini-games to learn an practice english. I did this for a real company named [Konector](https://konektorgroup.com/) but a think they haven't develop the game, therefore is not public yet
+- [Party Snake](https://overplay45.itch.io/party-snakes/devlog/563872/final-game-is-out-new-music-battle-powers-and-ending) it's a 2D-3D videogame done with Godot engine in 4 months of work, with a 4-person team
+- Roblox world with 5 mini-games to learn an practice english. I did this for a company named [Konector](https://konektorgroup.com/) but a think they haven't develop the game, therefore is not public yet
 ### Data science
 - I analized electoral data in Chile to find some answers about why people don't want to vote. I used Python, Pandas, Matplotlib and SHP files. click [here](https://github.com/Negrodcc/Voten/blob/main/rural_educacion.ipynb) for more information
 - A data science study about Chilean Education, with a big Entity-Relationship Model and larges PostgreSQL querys. [Here](https://drive.google.com/file/d/1UfKVYRveBh60dVM508RN_gSQkFhpTIE1/view?usp=sharing) my final report about it
 ### Machine Learning and Deep Learning
 - Continuing the second point in Data science proyects, i added machine learning with the R language to the educational proyect, with several models, like binary-tree decisions, KNN and Clusters. [Here](https://drive.google.com/file/d/13ItBrUxyKoIGPjW8hImFABfLWpJFyC--/view?usp=sharing) our final presentation about it.
-- I've had done some mini proyects-tasks with neural networks, specifically CNN, RNN and Transformers. [Here](https://colab.research.google.com/drive/1Vq5RJeisaRi58kn0EYJ98XZO3MHoQuU-?usp=sharing) is an example in Google Colab where you can see what i did
+- I've had done some mini proyects-tasks with neural networks, specifically CNN, RNN and Transformers. [Here](https://colab.research.google.com/drive/1Vq5RJeisaRi58kn0EYJ98XZO3MHoQuU-?usp=sharing) there is an example in Google Colab where you can see what i did
 # Interships
 - In my first intership i worked as a data scientist, doing SQL querys in a local database
 - I worked with [NicLabs](https://niclabs.cl/) in my second intership testing their DNS library made in Rust, i created unit and integrates tests
