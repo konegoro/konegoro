@@ -19,8 +19,10 @@ I've worked in some proyects in differenters areas, both at the university and i
 # Interships
 - In my first intership i worked as a data scientist, doing SQL querys in a local database
 - I worked with [NicLabs](https://niclabs.cl/) in my second intership testing their DNS library made in Rust, i created unit and integrates tests
-
-
+# Other
+- I am assistant professor in the course "Lenguajes de Programacion" (CC4101). This course is one of the toughest in the academic mesh. [Here](https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=115998) is the course program
+- I have the B2 TOEFL Certification
+- In the last semester (Spring 2024) my grade was 6.1 of 7 
 # Techonlogies and tools 
 
 ## Programming Languages
