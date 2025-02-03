@@ -42,6 +42,7 @@ I've worked in some proyects in differenters areas, both at the university and i
 <a href="https://godotengine.org/" style="text-decoration: none;"><img alt="Godot" align="center" height="50px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /></a>
 <a href="https://www.sqltutorial.org/" style="text-decoration: none;"><img alt="SQL" align="center" height="50px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
 <a href="https://www.postgresql.org/" style="text-decoration: none;"><img alt="PostgreSQL" align="center" height="50px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></a>
+<a href="https://www.mongodb.com/" style="text-decoration: none;"><img alt="MongoDB" align="center" height="50px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></a>
 ## Frameworks and Tools 
 <a href="https://github.com/" style="text-decoration: none;"><img alt="GitHub" align="center" height="50px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>
 <a href="https://code.visualstudio.com/" style="text-decoration: none;"><img alt="VsCode" align="center" height="50px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>
@@ -53,6 +54,9 @@ I've worked in some proyects in differenters areas, both at the university and i
 <a href="https://www.djangoproject.com/" style="text-decoration: none;"><img alt="Django" align="center" height="50px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /></a>
 <a href="https://expressjs.com/" style="text-decoration: none;"><img alt="Express" align="center" height="50px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></a>
 <a href="https://pandas.pydata.org/" style="text-decoration: none;"><img alt="Pandas" align="center" height="50px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" /></a>
+<a href="https://render.com/" style="text-decoration: none;"><img alt="Pandas" align="center" height="50px" style="margin: 2px" src="https://media.licdn.com/dms/image/v2/D4E0BAQGGDoFoqHtOvA/company-logo_200_200/company-logo_200_200/0/1702595267620/renderco_logo?e=2147483647&v=beta&t=ZYrxKUyruOEupgw5Lr5amgwgBCJq8VXH8r05Qr5CeQc" /></a>
+
+
 
 <details>
 <summary><h1>✉️ Contact</h1></summary>
