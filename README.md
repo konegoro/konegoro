@@ -1,13 +1,12 @@
 # Bio
-I'm in my last year of civil engineering in computer science at Universidad de Chile, but at the end of 2025 I will be officially a software engineer.
-I like web development and data science, but I had worked in other areas too, like gamedevelop, functional programming, machine learning, deep learing and DNS protocols.
+I'm in my last year of civil engineering in computer science at Universidad de Chile. I like web development and data science, but I have worked in other areas too, like gamedev, functional programming, machine learning, deep learing and DNS protocols.
 
 # Proyects
 I've worked in some proyects in differenters areas, both at the university and in internships.
 ### Web Development 
 - Flask proyect using Jinja for templates and AJAX for customized graphics
 - Several FullStack proyects using React for the frontend (with JS) and Express for the backend, also using MongoDB. All these proyects came from this [course](https://fullstackopen.com/en/) at University of Helsinki. I have several repositories with these proyects, [here](https://github.com/Negrodcc/FullStackProject-Backend) is one of them.
-### Gamedev
+### game development
 - [Party Snake](https://overplay45.itch.io/party-snakes/devlog/563872/final-game-is-out-new-music-battle-powers-and-ending) it's a 2D-3D videogame done with Godot engine in 4 months of work, with a 4-person team.
 - Roblox world with 5 mini-games to learn an practice english. I did this for a company named [Konector](https://konektorgroup.com/) but a think they haven't develop the game, therefore is not public yet.
 ### Data science
