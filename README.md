@@ -18,7 +18,7 @@ I've worked in some proyects in differenters areas, both at the university and i
 # Experience
 - I worked as a data analist in my first intership, doing SQl querys.
 - I worked with [NicLabs](https://niclabs.cl/) in my second intership testing their DNS library made in Rust, I created unit and integrates tests.
-- I am assistant professor in the course Programming Languages (CC4101). This course is one of the toughest in the academic mesh. [Here](https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=115998) is the course program.
+- I am assistant professor in the course Programming Languages (CC4101). [Here](https://ucampus.uchile.cl/m/fcfm_catalogo/programa?bajar=1&id=115998) is the course program.
 # Techonlogies and tools 
 
 ## Programming Languages
