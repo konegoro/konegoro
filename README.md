@@ -5,7 +5,7 @@ I'm in my last year of civil engineering in computer science at Universidad de C
 I've worked in some proyects in differenters areas, both at the university and in internships.
 ### Web Development 
 - Flask proyect using AJAX for customized graphics
-- I have finished this [course](https://fullstackopen.com/en/) at University of Helsinki, where I have done mini-proyects using React for the frontend (with JS) and Express for the backend, also using MongoDB. I have several repositories with these proyects, [here](https://github.com/Negrodcc/FullStackProject-Backend) is one of them and [here](https://drive.google.com/file/d/1QGcEt903y23iDgPeLtlpcIX4TcqTvyxH/view?usp=sharing) is the course certificate.
+- I have finished this [course](https://fullstackopen.com/en/) at University of Helsinki, where I have done mini-proyects using React for the frontend (with JS) and Express for the backend, also using MongoDB. I have several repositories with these proyects, [here](https://github.com/Negrodcc/FullStackProject-Backend) is one of them and [here](https://drive.google.com/file/d/1dy4L7DzUeiZ_IFIGoCljPuvVFTsJgYsr/view?usp=sharing) is the course certificate.
 ### Game Development
 - [Party Snake](https://overplay45.itch.io/party-snakes/devlog/563872/final-game-is-out-new-music-battle-powers-and-ending) it's a 2D-3D videogame done with Godot engine in 4 months of work, with a 4-person team.
 - Roblox world with 5 mini-games to learn an practice english. I did this for a company named [Konector](https://konektorgroup.com/) but they haven't deployed the game, so is not public yet.
